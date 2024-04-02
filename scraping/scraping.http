@@ -1,0 +1,6 @@
+@scraping_HostAddress = http://localhost:5095
+
+GET {{scraping_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
